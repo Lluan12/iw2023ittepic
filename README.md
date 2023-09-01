@@ -21,4 +21,27 @@ echo . > 1.txt
 git tag v0.1
 git add .
 git commit -m "Agregacion del tag"
-git push
+git push 
+
+
+# Cuenta de github, verificacion a dos pasos y la clave
+
+ssh-keygen
+
+
+# Creacion de tabla
+
+    Nombre     |    Github
+--------------------------------
+Ivan Robles    | https://github.com/IvanRobles19/iw2023ittepic.git
+---------------------------------------------------------------------
+Paul Ochoa     | https://github.com/PaulOchoa952/iw2023ittepic.git
+---------------------------------------------------------------------
+Paul Machain   |  https://github.com/PaulRazon/iwittepic2023.git
+---------------------------------------------------------------------
+Erick Ramirez  | https://github.com/Elery2711/iw2023ittepic.git
+---------------------------------------------------------------------
+Victor Pacheco | https://github.com/XxXelbichoXxX/iw2023ittepic.git
+----------------------------------------------------------------------
+
+# Agregación de colaboradore
