@@ -36,7 +36,6 @@ git push
 ![5](https://github.com/Lluan12/iw2023ittepic/assets/103333263/2cd3d9a8-ee6a-4d4c-b1b3-99722b119ff3)
 
 ssh-keygen
-![6](https://github.com/Lluan12/iw2023ittepic/assets/103333263/fcbc1515-60cd-4f87-afaa-57ef6e0590bc)
 
 ![7](https://github.com/Lluan12/iw2023ittepic/assets/103333263/14f7920b-20d4-4e6d-b3fb-b46d57fce1fb)
 
