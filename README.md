@@ -128,3 +128,11 @@ git branch -D v.02
 
 
 # Creación de una organización
+
+![image](https://github.com/Lluan12/iw2023ittepic/assets/103333263/5114ff76-b201-4fc3-a62f-684a77db614c)
+
+# Cración de equipos
+
+![image](https://github.com/Lluan12/iw2023ittepic/assets/103333263/2146cddd-178c-43d2-9009-3c2c0f6f7379)
+
+
